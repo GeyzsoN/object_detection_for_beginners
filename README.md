@@ -1,7 +1,7 @@
-# Start with this
-
+# Object Detection using Kitkat Dataset
 ![KitKat Dataset](banner.jpg)
 
+## Start with this
 1. Clone the repository on your local machine. Make sure you have git installed to begin with.
 ```bash
 git clone https://github.com/GeyzsoN/object_detection_for_beginners.git
