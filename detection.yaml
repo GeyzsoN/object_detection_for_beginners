@@ -1,6 +1,5 @@
 # detection.yaml
-path: /Users/geyzsonkristoffer/Documents/github/AI231/MEX5/coco_renamer/classdataset_do_not_delete/downloaded/dataset/kitkat_dataset/  # Root directory for your dataset
-# path: /Users/geyzsonkristoffer/Documents/github/computer_vision/ultralytics/dataset/kitkat_dataset/  # Root directory for your dataset
+path: /Users/geyzsonkristoffer/Documents/github/computer_vision/ultralytics/dataset/object_detection_for_beginners/kitkat_dataset/  # Root directory for your dataset
 
 train: train
 val: val
