@@ -1,0 +1,15 @@
+# detection.yaml
+path: /Users/geyzsonkristoffer/Documents/github/AI231/MEX5/coco_renamer/classdataset_do_not_delete/downloaded/dataset/kitkat_dataset/  # Root directory for your dataset
+# path: /Users/geyzsonkristoffer/Documents/github/computer_vision/ultralytics/dataset/kitkat_dataset/  # Root directory for your dataset
+
+train: train
+val: val
+
+# Number of classes
+nc: 3
+
+# Class names (0-based indexing)
+names:
+  0: 'Bottled Soda'
+  1: 'Cheese'
+  2: 'Chocolate (Kitkat)'
